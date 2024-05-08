@@ -45,9 +45,9 @@ From the above characteristic table, we can directly write the next state equati
 
 Program for flipflops and verify its truth table in quartus using Verilog programming.
 
-Developed by: GANESH D.
+Developed by: Muhammad Afshan.A
 
-RegisterNumber: 212223240035
+RegisterNumber: 212223100035
 
 **PROGRAM**
 ```
